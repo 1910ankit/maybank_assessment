@@ -1,0 +1,16 @@
+If the permission is given to the file for read and write then the output is 
+
+The two nos are : no1, no2
+The total sum value is totalSum
+
+----------------------------------------
+If permission to read file not given then 
+
+java.io.FileNotFoundException: input.txt (Permission denied)
+
+----------------------------------------------
+
+if permission to write file not given then 
+
+The two nos are : no1,no2		
+Error java.io.FileNotFoundException: output.txt (Permission denied)	
